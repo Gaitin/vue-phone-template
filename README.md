@@ -1,6 +1,6 @@
-# taip
+# vue-phone-template
 
-> taip demo
+> vue-phone-template
 
 ## Build Setup
 
